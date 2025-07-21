@@ -4,7 +4,7 @@
     {
        public static void main(String args[])
         {
-             int aa=60;
+             int aa=80;
 System.out.println("the variable value is"+aa);
 
 	}
